@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif" width="200"/>
   <h1> Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <br>
-  My Name is Evance & I am a Highschool Student at Nicolas-Gatineau Polyvalente High School 🏫<br>
-  My Hobbies include coding, going to robotics, & playing football <br>
+  My Name is Évence & I am a Highschool Student at Nicolas-Gatineau Polyvalente High School 🏫<br>
+  My Hobbies include coding, reading about new things, going to robotics, & playing soccer <br>
 
 
 </div>
